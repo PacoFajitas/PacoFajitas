@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I'm Tomas, a 42 Barcelona student, this is my personal github so you might find a lot of memes and jokes 
+ I'm Tomas, a 42 Barcelona student, this is my personal github so you may find a lot of memes, cats and jokes 
 
 ![Cato](https://raw.githubusercontent.com/PacoFajitas/PacoFajitas/main/giphy.gif)
 ## Technologies and lenguages I've worked with:
