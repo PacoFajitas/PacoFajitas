@@ -2,7 +2,7 @@
 
  I'm Tomas, a 42 Barcelona student, this is my personal github so you might find a lot of memes and jokes 
 
-[(https://raw.githubusercontent.com/PacoFajitas/PacoFajitas/main/giphy.gif)]
+![Cato](https://raw.githubusercontent.com/PacoFajitas/PacoFajitas/main/giphy.gif)
 ## Technologies and lenguages I've worked with:
 <p align="left"> 
 
